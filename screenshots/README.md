@@ -1,3 +1,4 @@
+<img width="1746" height="960" alt="security groups" src="https://github.com/user-attachments/assets/3e8b5927-2ed0-4bfa-a0e3-22534493ce0f" />
 <img width="1852" height="960" alt="Subnets" src="https://github.com/user-attachments/assets/b0e98993-de69-4f76-bb9b-95a833963172" />
 <img width="1902" height="960" alt="VPC Dashboard" src="https://github.com/user-attachments/assets/074ec263-2dcd-49ab-87f8-9c29621a7b30" />
 <img width="1849" height="960" alt="route table public" src="https://github.com/user-attachments/assets/ddeb236d-a629-463c-81d1-ad518fbf16f7" />
